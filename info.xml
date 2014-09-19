@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<!-- One of: plugin, behavior, effect -->
+	<type>behavior</type>
+	
+	<name>Circle</name>	
+	<version>1.0</version>
+	<author>mutuware</author>
+	<website>http://www.mutuware.com</website>
+	<documentation></documentation>
+	<description>Allow the circular or elliptical movement of objects.</description>
+</c2addon>
