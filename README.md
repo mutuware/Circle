@@ -1,0 +1,4 @@
+Circle
+======
+
+C2 Behavior for circular paths. Also allows ellipitcal paths. Radius and origin can be changed.
